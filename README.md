@@ -2,8 +2,8 @@
 
 # Utilisation des Commandes et des Concepts Git en Command Line
 
-⋅⋅* git init (Création d'un nouveaux dépot Git)
-⋅⋅* git status (Indique la position / Indique les commits / Les modifications)
+* git init (Création d'un nouveaux dépot Git)
+* git status (Indique la position / Indique les commits / Les modifications)
 ⋅⋅* git add {PATH} (Ajout du dossier untrack)
 ⋅⋅* git add -A (Ajoute tous les dossiers untrack)
 ⋅⋅* git commit -m "message" (Donne un hash -> Défini un commit)
