@@ -27,8 +27,7 @@
 * Qu'est ce qu'un Fast-Foward merge?
 Quand git est capable  de partir d'un état. On doit avoir la base du projet. Technique de merge : Marche lorsqu'il y a des liaisons. On doit avoir A, car il se base sur le A.
 * Fast-Foward = NE CRÉE PAS DE COMMIT
-* Qu'est ce que le HEAD
-Pointeur vers l'étiquette
+* Qu'est ce que le HEAD = Pointeur vers l'étiquette
 * Qu'est ce qu'un TREE WAY MERGE et quand ca arrive?
 Quand on merge plusieurs branches ensemble
 * Qu'est ce qu'une PULL REQUEST?
@@ -36,12 +35,12 @@ Va chercher un fichier
 
 # Commande Utiles BASH non reliés à git
 * cd {PATH}
-Se déplacer dans l'arbre des répertoires
+= Se déplacer dans l'arbre des répertoires
 * pwd
-Savoir où on se situe en ce moment
+= Savoir où on se situe en ce moment
 * touch
-"Toucher" un fichier pour la première fois et le créer
+= "Toucher" un fichier pour la première fois et le créer
 * ls
-Voir le contenu d'un  répertoire
+= Voir le contenu d'un  répertoire
 * ls -al
-Voir le contenu d'un répertoire, ainsi que les fichiers cachés
+= Voir le contenu d'un répertoire, ainsi que les fichiers cachés
