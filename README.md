@@ -1,4 +1,4 @@
-# Commande_Git_Cheat_Sheet
+# Commandes_Git_Cheat_Sheet
 
 # Utilisation des Commandes et des Concepts Git en Command Line
 
